@@ -295,9 +295,13 @@ interactions, symptoms = load_data()
 # LOAD OCR MODEL
 # -------------------------------
 
+# -------------------------------
+# LOAD OCR MODEL
+# -------------------------------
+
 @st.cache_resource
 def load_ocr():
-    return easyocr.Reader(['en'])
+    return easyocr.Reader(['en'], gpu=False)
 
 reader = load_ocr()
 
