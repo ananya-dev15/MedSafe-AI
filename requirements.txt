@@ -1,9 +1,10 @@
 streamlit
 pandas
 rapidfuzz
-easyocr
 pillow
 opencv-python-headless
 numpy
 openai
 python-dotenv
+easyocr
+python-bidi==0.4.2
