@@ -1,0 +1,4 @@
+medicine1,medicine2,interaction
+paracetamol,ibuprofen,Safe combination
+aspirin,ibuprofen,Increased bleeding risk
+warfarin,aspirin,High bleeding risk

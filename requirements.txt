@@ -1,0 +1,7 @@
+streamlit
+pandas
+rapidfuzz
+easyocr
+pillow
+opencv-python
+numpy
