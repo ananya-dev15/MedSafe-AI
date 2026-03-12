@@ -1,11 +1,9 @@
 streamlit
 pandas
 rapidfuzz
+easyocr
 pillow
 opencv-python-headless
 numpy
 openai
 python-dotenv
-easyocr
-torch==2.1.0
-torchvision==0.16.0
