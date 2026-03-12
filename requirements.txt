@@ -3,5 +3,9 @@ pandas
 rapidfuzz
 easyocr
 pillow
-opencv-python
+opencv-python-headless
 numpy
+openai
+python-dotenv
+torch==2.2.2
+torchvision
